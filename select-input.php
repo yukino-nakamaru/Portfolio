@@ -6,6 +6,6 @@
 <option value="指定席">指定席</option>
 <option value="グリーン席">グリーン席</option>
 </select>
-<p><onput type="submit" value="確定"></p>
+<p><input type="submit" value="確定"></p>
 </from>
 <?php require '../footer.php'; ?>
